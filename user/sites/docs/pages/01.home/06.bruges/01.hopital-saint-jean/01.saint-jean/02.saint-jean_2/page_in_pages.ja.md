@@ -38,14 +38,14 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-1920.jpg 1920w">
 </picture><figcaption><ruby>開<rt style="color:#555">かい</rt>翼<rt style="color:#555">よく</rt>時<rt style="color:#555">じ</rt></ruby></figcaption></figure>
 
-私たちはまず[color=#e6a64d]作品が表わそうとしているのを[/color]描写しようとしています。そのため、[color=#e6a64d]眼の追う筋[/color]に従います。それは、[color=#e6a64d]主な場面[/color]から始まります。
+私たちはまず[color=#e6a64d]作品が表現しようとしている事を[/color]説明します。そのため、最初に目に留まるような主な場面のご説明から始めます。
 
 ## 作品の描写 {.orange #description}
 
 ### 聖母の戴冠 {.orange #couronnement}
 
-中央には、[color=#e6a64d]
-聖母[/color]は、綺麗な模様のある上級繊維の前で、赤いベルベットのバルダキンの下に金箔の王座で座している。
+中央の、[color=#e6a64d]
+聖母[/color]は、綺麗な模様のある上級繊維の前で、赤いベルベットのバルダキンの下の金箔の王座に座している。
 
 <figure><picture>
 <source
@@ -103,8 +103,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-1920.jpg 1920w">
 </picture><figcaption>中央パネルの詳細、《聖母の冠を持つ二人の天使》</figcaption></figure>
 
-彼女の膝に[color=#e6a64d]幼子イエス[/color]は、座ったままで、左手でリンゴを掴んでいて、右てでは、[color=#e6a64d]薬指[/color]に金の指輪を聖母の下と左で、前にある[color=#e6a64d]女の人[/color]にはめようとしています。
-
+彼女の膝にいらっしゃる[color=#e6a64d]幼子イエス[/color]は、座ったままで、左手でリンゴを掴んでいて、右手では、聖母の左前にいる女性の薬指に金の指輪をはめようとしています。
 <figure><picture>
 <source
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
